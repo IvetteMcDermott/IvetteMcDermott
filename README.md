@@ -2,7 +2,7 @@
 
 I am **Ivette Mc Dermott**. Just completed the Full Stack Developer Diploma with e-commerce specialization with Code Institute.
 
-🔭 I’m currently working on improve the skills I had adquire with CI for full stack developer
+- 🔭 I’m currently working on improve the skills I had adquire with CI for full stack developer
 🌱 I’m currently learning Django, while keep studying Js and Python.
 - 👯 I’m looking to collaborate on any project that allows me to grow as coder :) I had some experience with Git and collaborative projects but lots to learn yet and open to always!
 <!-- - 🤔 I’m looking for help with Django -->
