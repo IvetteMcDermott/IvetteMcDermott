@@ -1,21 +1,19 @@
 ### Hi there 👋
 
-<!--
-**IvetteMcDermott/IvetteMcDermott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IvetteMcDermott/IvetteMcDermott** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on improve the skills I had adquire with CI for full stack developer
+🌱 I’m currently learning Django, while keep studying Js and Python.
+- 👯 I’m looking to collaborate on any project that allows me to grow as coder :)
+- 🤔 I’m looking for help with Django
+- 💬 Ask me about anything about code, I love to share ideas and rubber duck.
+- 📫 How to reach me: [...](https://www.linkedin.com/in/ivette-mc-dermott/)
+- 😄 Pronouns: She/Her
+<!-- - ⚡ Fun fact: -->
 
-1️⃣  Some of my projects and the tech was used for
+1️⃣  Some of my projects through the course and the tech was used for
 
 | Project       | Tech           |
 | ------------- |:-------------:|
@@ -45,6 +43,6 @@ Here are some ideas to get you started:
 | JS  | In process 🙃  |
 | PYTHON | In process 🙃  |
 | DJANGO | In process 🙃  |
-| REACT | In process 🙃  |
+| REACT | Starting 🙃  |
 | AWS  | In process 🙃 |
 | SQL | In process 🙃  |
