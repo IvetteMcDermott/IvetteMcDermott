@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**IvetteMcDermott/IvetteMcDermott** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am **Ivette Mc Dermott**. Just completed the Full Stack Developer Diploma with e-commerce specialization with Code Institute.
 
 🔭 I’m currently working on improve the skills I had adquire with CI for full stack developer
 🌱 I’m currently learning Django, while keep studying Js and Python.
