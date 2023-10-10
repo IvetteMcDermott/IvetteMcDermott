@@ -1,3 +1,5 @@
+![](sts-high.gif)
+
 ### Hi there 👋
 
 I am **Ivette Mc Dermott**. Just completed the Full Stack Developer Diploma with e-commerce specialization with Code Institute.
