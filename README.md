@@ -17,7 +17,7 @@ I am **Ivette Mc Dermott**. Just completed the Full Stack Developer Diploma with
 
 | Project       | Tech           |
 | ------------- |:-------------:|
-| PP1    | HTML, CSS |
+| PP1    | ![](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png), CSS |
 | PP2   | HTML, CSS, JS |
 | PP3    | PYTHON |
 | PP4    | HTML, CSS, DJANGO, BOOTSTRAP, JS, CLOUDINARY, SQL ELEPHANT |
