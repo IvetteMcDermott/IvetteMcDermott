@@ -1,7 +1,7 @@
 [<p align="center" width="100%"><img src="sts-high.gif" width="600"/></p>](sts-high.gif)
 [<p align="center" width="100%"><img src="https://img.shields.io/badge/%F0%9F%91%A9_Nathalie_Ivette_Mc_Dermott-purple?style=flat-square" width="400"/></p>](https://img.shields.io/badge/%F0%9F%91%A9_Nathalie_Ivette_Mc_Dermott-purple?style=flat-square)   [<img src="https://img.shields.io/badge/Hi_there!_%F0%9F%91%8B-green?style=social" width="100"/>](https://img.shields.io/badge/Hi_there!_%F0%9F%91%8B-green?style=social) 
 
-I am Junior Developer that had completed the Full Stack Developer Diploma with e-commerce specialization with Code Institute in May of this year 2023. I have adquired knowledge in some technologies through this course and some other certifications that after it ended. I keep practicing continuisly so to improve my skills, and at same time I am learning new techs.  I am looking for my first position as junior developer. 
+I am Junior Developer that had completed the Full Stack Developer Diploma with e-commerce specialization with Code Institute in May of 2023. I have adquired knowledge in some technologies through this course and some other certifications that after it ended. I keep practicing continuisly so to improve my skills, and at same time I am learning new techs.  I am looking for my first position as junior developer. 
 🔨🔧  Languages and Tools I had knowledge in are:
 <div align="center" width="100%">
 
