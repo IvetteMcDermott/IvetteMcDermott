@@ -9,7 +9,7 @@ I am Junior Developer that had completed the Full Stack Developer Diploma with e
 <br>
 
 
-🔭 I’m currently working on improve the skills I had adquire with CI for full stack developer. <br>
+🔭 I'm currently studying a certificate in computer science at the National College of Ireland, and learning Java as part of this. Also I still work on improving my skills, too.<br>
 🌱 I’m currently learning React [<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="20"/>](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png) and NextJs [<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704
 " width="20"/>](https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704), while keep getting involved in group projects so upskill the ones I know. <br>
 👯 I’m looking to collaborate on any project that allows me to grow as coder 😉 I had some experience with Git and collaborative projects but lots to learn yet and always open to ! <br>
