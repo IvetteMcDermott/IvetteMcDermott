@@ -15,7 +15,7 @@ I am Junior Developer that had completed the Full Stack Developer Diploma with e
 👯 I’m looking to collaborate on any project that allows me to grow as coder 😉 I had some experience with Git and collaborative projects but lots to learn yet and always open to ! <br>
 <!-- - 🤔 I’m looking for help with Django -->
 💬 Ask me about anything about code, I will always try and help. I love to share ideas, and go through the logic even if the tech is new to me! Four eyes are better than two, especially when tired, so team work is the way to go. <br>
-📫 How to reach me:   [<img src="https://img.shields.io/badge/LinkedIn-blue" width="60"/>](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png) <br>
+📫 How to reach me:   [<img src="https://img.shields.io/badge/LinkedIn-blue" width="60"/>](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png)  [<img src="https://img.shields.io/badge/Portfolio-blue" width="60"/>](https://ivettemcdermott.github.io/BasicPortfolio/index.html) <br>
 <!-- - ⚡ Fun fact: -->
 
 ### 🗃️ Some projects 
